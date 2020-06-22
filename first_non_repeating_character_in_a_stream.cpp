@@ -1,3 +1,6 @@
+// https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
